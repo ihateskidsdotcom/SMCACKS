@@ -1,0 +1,26 @@
+{
+  "name": "discord-server-management-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for mass channel operations and bulk messaging with admin controls",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "server-management",
+    "bulk-messaging",
+    "channel-management"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.2.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
